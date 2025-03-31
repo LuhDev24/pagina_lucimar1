@@ -24,7 +24,3 @@ Este projeto é uma Landing Page desenvolvida para promover serviços de criaç�
 
 ---
 
-## **Como Usar**
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
